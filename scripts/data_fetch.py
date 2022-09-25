@@ -1,0 +1,1 @@
+# make api call !echo '{"username":"paritoshtripathi","key":"51f2266340d967435161910659159dc5"}' > /root/.kaggle/kaggle.json

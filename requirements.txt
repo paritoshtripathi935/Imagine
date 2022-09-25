@@ -1,0 +1,13 @@
+flask
+#pickle
+numpy
+pandas
+h5py
+matplotlib
+pillow
+torch
+sklearn
+transformers
+Ipython
+ipywidgets
+sentencepiece

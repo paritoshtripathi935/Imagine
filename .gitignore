@@ -1,1 +1,4 @@
 # write gitignore for the python project 
+venv
+Data/flowerImage/flowers-hd5/data/flowers/flowers.hdf5
+Data
